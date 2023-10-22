@@ -1,0 +1,15 @@
+:root {
+    --playpen-font: 'Playpen Sans', cursive;
+}
+
+body {
+    font-family: monospace;
+}
+
+h1 {
+    font-family: var(--playpen-font);
+}
+
+button {
+    font-family: fantasy;
+}
